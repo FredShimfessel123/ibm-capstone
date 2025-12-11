@@ -1,0 +1,21 @@
+FlightNumber,Date,BoosterVersion,LaunchSite,Outcome,PayloadMassKG,Orbit
+
+1,2018-02-06,Falcon Heavy,CCAFS_LC39A,Success,6387,HEO
+
+2,2018-03-06,Falcon 9,CCAFS_SLC40,Success,2280,LEO
+
+3,2018-05-11,Falcon 9,KSC_LC39A,Failure,3400,GTO
+
+4,2019-02-22,Falcon 9,CCAFS_SLC40,Success,1500,LEO
+
+5,2020-01-29,Falcon 9,VAFB_SLC4E,Success,960,SSO
+
+6,2020-06-13,Falcon 9,KSC_LC39A,Success,1345,LEO
+
+7,2021-01-24,Falcon 9,CCAFS_SLC40,Success,1431,SSO
+
+8,2021-03-14,Falcon 9,CCAFS_SLC40,Failure,1540,LEO
+
+
+
+
